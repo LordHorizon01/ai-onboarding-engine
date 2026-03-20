@@ -19,19 +19,19 @@ Prerequisites
 2. npm
 
 Installation
-1. Clone the repository
+1. Clone the repository:-
 git clone <repository-url>, then cd ai-onboarding-engine
 
 2. Setup Backend
-cd backend
-npm install
+cd backend,
+npm install,
 npm start
 Server will run on http://localhost:5000
 
 3. Setup Frontend
 Open a new terminal:
-cd frontend
-npm install
+cd frontend,
+npm install,
 npm start
 React app will run on http://localhost:3000
 
